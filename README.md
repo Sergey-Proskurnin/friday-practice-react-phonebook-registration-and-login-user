@@ -1,1 +1,1 @@
-# friday-practice-react-phonebook-registration-and-login-user
+# goit-react-hw-08-09-phonebook
